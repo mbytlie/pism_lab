@@ -12,11 +12,6 @@ public class Main {
         list.add("around");
         list.add("the");
         list.add("world");
-        list.add("you");
-        list.add("make");
-        list.add("stray");
-        list.add("kids");
-        list.add("stay");
         list.add("stream");
         list.add("back");
         list.add("door");
