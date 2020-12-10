@@ -15,9 +15,6 @@ public class Main {
         list.add("stream");
         list.add("back");
         list.add("door");
-        list.add("for");
-        list.add("good");
-        list.add("health");
 
         ArrayList<Integer> length = new ArrayList<>();
         for(String word: list){
